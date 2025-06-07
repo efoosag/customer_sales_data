@@ -42,10 +42,11 @@ The analysis results are summarised as follows:
 -  The product category that generates the highest revenue is clothing.
 -  Clothing is the product category with the highest number of orders.
 -  Sales and Quantity sold trend are as follows:
-  - Slightly stable in the first quarter
-  - Sharp increase towards the end of the second quarter
-  - Decrease at the beginning of the third quarter, increase in the middle and decrease toward the end of the quarter
-  - In the fourth quarter, sales and quantity remain fairly stable.
+  1  Slightly stable in the first quarter
+  2 Sharp increase towards the end of the second quarter
+  3 Decrease at the beginning of the third quarter, increase in the middle and decrease toward the end of the quarter
+  4 In the fourth quarter, sales and quantity remain fairly stable.
+-  The analysis indicates that targets were met by the end of the second quarter in 2024.
 ### Recommendations
 Based on the analysis, we recommend the following actions:
 -  More resources should be channelled towards the clothing category to increase revenue.

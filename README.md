@@ -41,8 +41,15 @@ EDA involved exploring the sales data to answer key questions, such as:
 The analysis results are summarised as follows:
 -  The product category that generates the highest revenue is clothing.
 -  Clothing is the product category with the highest number of orders.
--<pre> ### 📈 Sales and Quantity Sold Trends ``` Q1: Sales and quantity remained relatively stable throughout the first quarter. Q2: There was a sharp increase in both metrics toward the end of the second quarter. Q3: A decline occurred at the start of the third quarter, followed by a mid-quarter rise, and another dip toward the end. Q4: Sales and quantity levels stayed fairly consistent during the fourth quarter. ``` </pre>
--  The analysis indicates that targets were met by the end of the second quarter in 2024.
+- Sales and Quantity Sold Trends
+  - Q1: Sales and quantity remained relatively stable throughout the first quarter.
+
+  - Q2: There was a sharp increase in both metrics toward the end of the second quarter.
+
+  - Q3: A decline occurred at the start of the third quarter, followed by a mid-quarter rise, and another dip toward the end.
+
+  - Q4: Sales and quantity levels stayed fairly consistent during the fourth quarter.
+- Based on the analysis, the 2024 targets had been met as of the end of the second quarter.
 ### Recommendations
 Based on the analysis, we recommend the following actions:
 -  More resources should be channelled towards the clothing category to increase revenue.
